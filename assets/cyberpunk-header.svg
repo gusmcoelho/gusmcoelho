@@ -1,0 +1,145 @@
+<svg fill="none" viewBox="0 0 800 200" width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes pulse {
+          0%, 100% { opacity: 1; filter: drop-shadow(0 0 8px #00f0ff); }
+          50% { opacity: 0.6; filter: drop-shadow(0 0 2px #00f0ff); }
+        }
+        @keyframes magentaPulse {
+          0%, 100% { filter: drop-shadow(0 0 10px #ff0055); }
+          50% { filter: drop-shadow(0 0 3px #ff0055); }
+        }
+        @keyframes scanline {
+          0% { transform: translateY(-100%); }
+          100% { transform: translateY(1000%); }
+        }
+        @keyframes blink {
+          0%, 49% { opacity: 1; }
+          50%, 100% { opacity: 0; }
+        }
+        .header-container {
+          background: linear-gradient(135deg, #070913 0%, #0d1222 50%, #150a21 100%);
+          border: 2px solid #00f0ff;
+          border-radius: 12px;
+          box-shadow: 0 0 20px rgba(0, 240, 255, 0.3), inset 0 0 15px rgba(255, 0, 85, 0.2);
+          width: 796px;
+          height: 196px;
+          font-family: 'Fira Code', Consolas, 'Courier New', monospace;
+          position: relative;
+          overflow: hidden;
+          box-sizing: border-box;
+          color: #e6edf3;
+        }
+        .grid-bg {
+          position: absolute;
+          top: 0; left: 0; right: 0; bottom: 0;
+          background-image: 
+            linear-gradient(to right, rgba(0, 240, 255, 0.05) 1px, transparent 1px),
+            linear-gradient(to bottom, rgba(0, 240, 255, 0.05) 1px, transparent 1px);
+          background-size: 20px 20px;
+        }
+        .scanline {
+          position: absolute;
+          top: 0; left: 0; right: 0;
+          height: 20px;
+          background: linear-gradient(to bottom, transparent, rgba(0, 240, 255, 0.15), transparent);
+          animation: scanline 8s linear infinite;
+          pointer-events: none;
+        }
+        .corner-tl { position: absolute; top: 6px; left: 6px; border-top: 3px solid #ff0055; border-left: 3px solid #ff0055; width: 16px; height: 16px; }
+        .corner-tr { position: absolute; top: 6px; right: 6px; border-top: 3px solid #00f0ff; border-right: 3px solid #00f0ff; width: 16px; height: 16px; }
+        .corner-bl { position: absolute; bottom: 6px; left: 6px; border-bottom: 3px solid #00f0ff; border-left: 3px solid #00f0ff; width: 16px; height: 16px; }
+        .corner-br { position: absolute; bottom: 6px; right: 6px; border-bottom: 3px solid #ff0055; border-right: 3px solid #ff0055; width: 16px; height: 16px; }
+        
+        .header-content {
+          padding: 24px 32px;
+          position: relative;
+          z-index: 2;
+        }
+        .sys-title {
+          font-size: 11px;
+          letter-spacing: 2px;
+          color: #ff0055;
+          text-transform: uppercase;
+          animation: magentaPulse 3s infinite;
+          margin-bottom: 8px;
+          display: flex;
+          align-items: center;
+          gap: 8px;
+        }
+        .sys-dot {
+          width: 8px;
+          height: 8px;
+          background-color: #ff0055;
+          border-radius: 50%;
+          display: inline-block;
+          animation: blink 1.2s infinite;
+        }
+        .main-name {
+          font-size: 28px;
+          font-weight: 800;
+          letter-spacing: 4px;
+          background: linear-gradient(90deg, #00f0ff 0%, #ffffff 50%, #ff0055 100%);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          text-shadow: 0 0 15px rgba(0, 240, 255, 0.4);
+          margin: 0;
+          text-transform: uppercase;
+        }
+        .sub-name {
+          font-size: 13px;
+          color: #8b949e;
+          letter-spacing: 2px;
+          margin-top: 4px;
+          font-weight: 600;
+        }
+        .hud-metrics {
+          position: absolute;
+          bottom: 16px;
+          right: 28px;
+          display: flex;
+          gap: 16px;
+          font-size: 10px;
+          letter-spacing: 1px;
+        }
+        .metric-badge {
+          background: rgba(0, 240, 255, 0.08);
+          border: 1px solid rgba(0, 240, 255, 0.4);
+          padding: 4px 10px;
+          border-radius: 4px;
+          color: #00f0ff;
+        }
+        .metric-badge.pink {
+          background: rgba(255, 0, 85, 0.08);
+          border: 1px solid rgba(255, 0, 85, 0.4);
+          color: #ff0055;
+        }
+      </style>
+
+      <div class="header-container">
+        <div class="grid-bg"></div>
+        <div class="scanline"></div>
+        <div class="corner-tl"></div>
+        <div class="corner-tr"></div>
+        <div class="corner-bl"></div>
+        <div class="corner-br"></div>
+
+        <div class="header-content">
+          <div class="sys-title">
+            <span class="sys-dot"></span>
+            SYSTEM BOOT // JARVIS OS v4.0.2 ONLINE
+          </div>
+          <h1 class="main-name">GUSTAVO MOREIRA</h1>
+          <div class="sub-name">&gt; FULL STACK DEVELOPER | AI &amp; CYBERSECURITY ENTHUSIAST</div>
+        </div>
+
+        <div class="hud-metrics">
+          <div class="metric-badge">[ STATUS: ACTIVE ]</div>
+          <div class="metric-badge pink">[ LOC: BRAZIL 🇧🇷 ]</div>
+          <div class="metric-badge">[ CORE: 100% ]</div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
