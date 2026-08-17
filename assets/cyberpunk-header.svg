@@ -99,7 +99,7 @@
           bottom: 16px;
           right: 28px;
           display: flex;
-          gap: 16px;
+          gap: 12px;
           font-size: 10px;
           letter-spacing: 1px;
         }
@@ -128,16 +128,16 @@
         <div class="header-content">
           <div class="sys-title">
             <span class="sys-dot"></span>
-            SYSTEM BOOT // JARVIS OS v4.0.2 ONLINE
+            SYSTEM BOOT // JARVIS OS ONLINE
           </div>
           <h1 class="main-name">GUSTAVO MOREIRA</h1>
-          <div class="sub-name">&gt; FULL STACK DEVELOPER | AI &amp; CYBERSECURITY ENTHUSIAST</div>
+          <div class="sub-name">&gt; FULL STACK DEVELOPER | JAVA • PYTHON • NODE.JS • APIs</div>
         </div>
 
         <div class="hud-metrics">
           <div class="metric-badge">[ STATUS: ACTIVE ]</div>
-          <div class="metric-badge pink">[ LOC: BRAZIL 🇧🇷 ]</div>
-          <div class="metric-badge">[ CORE: 100% ]</div>
+          <div class="metric-badge pink">[ IDE: ANTIGRAVITY ]</div>
+          <div class="metric-badge">[ LOC: BRASIL 🇧🇷 ]</div>
         </div>
       </div>
     </div>
