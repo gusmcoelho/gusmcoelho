@@ -62,23 +62,6 @@ user@jarvis-os:~$ status
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gusmcoelho&show_icons=true&theme=cyberpunk&hide_border=false&include_all_commits=true" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gusmcoelho&layout=compact&theme=cyberpunk&hide_border=false" height="150" alt="Top Languages" />
-
-<br/><br/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gusmcoelho&theme=react-dark&border=00F0FF&background=0d1117&color=00F0FF&line=FF0055&point=FFFFFF" alt="Activity Graph" width="100%" />
-</p>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=gusmcoelho&style=flat-square&color=00f0ff" alt="Profile Views" />
