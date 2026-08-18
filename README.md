@@ -52,16 +52,6 @@ const dev = {
 
 ---
 
-### 🎯 Terminal Status
-
-```bash
-user@jarvis-os:~$ status
-[✔] Building scalable APIs & Full Stack web applications
-[⚡] Powered by Antigravity IDE workflow
-```
-
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=gusmcoelho&style=flat-square&color=00f0ff" alt="Profile Views" />
