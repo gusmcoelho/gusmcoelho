@@ -7,7 +7,7 @@
 
 <!-- DYNAMIC TYPING ANIMATION -->
 <a href="https://github.com/denvercoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&height=40&lines=Full+Stack+Developer;Java+%E2%80%A2+Python+%E2%80%A2+Node.js+%E2%80%A2+REST+APIs;Powered+by+Antigravity+IDE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&height=40&lines=Full+Stack+Developer;Java+%E2%80%A2+Python+%E2%80%A2+Node.js+%E2%80%A2+REST+APIs" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -26,8 +26,7 @@
 const dev = {
   name: "Gustavo Moreira",
   role: "Full Stack Developer",
-  stack: ["Java", "Python", "Node.js", "REST APIs"],
-  ide: "Antigravity IDE ⚡"
+  stack: ["Java", "Python", "Node.js", "REST APIs"]
 };
 ```
 
@@ -43,9 +42,8 @@ const dev = {
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/REST_APIs-00F0FF?style=for-the-badge&logo=fastapi&logoColor=black" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/Antigravity_IDE-7928CA?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity IDE"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Antigravity_IDE-7928CA?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity IDE"/>
 </p>
 
 </div>

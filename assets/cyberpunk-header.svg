@@ -136,7 +136,7 @@
 
         <div class="hud-metrics">
           <div class="metric-badge">[ STATUS: ACTIVE ]</div>
-          <div class="metric-badge pink">[ IDE: ANTIGRAVITY ]</div>
+          <div class="metric-badge pink">[ CORE: 100% ]</div>
           <div class="metric-badge">[ LOC: BRASIL 🇧🇷 ]</div>
         </div>
       </div>
