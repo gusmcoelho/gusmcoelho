@@ -7,7 +7,7 @@
 
 <!-- DYNAMIC TYPING ANIMATION (AMBER GOLD ACCENT) -->
 <a href="https://github.com/denvercoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F59E0B&center=true&vcenter=true&width=600&height=40&lines=Fullstack+Dev+%26+Student;Java+%E2%80%A2+Python+%E2%80%A2+Node.js;Building+%26+Breaking+Stuff+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F59E0B&center=true&vcenter=true&width=600&height=40&lines=Fullstack+Dev+%26+Student;Java+%E2%80%A2+Python+%E2%80%A2+Node.js+%E2%80%A2+React;Building+%26+Breaking+Stuff+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -26,7 +26,7 @@
 const dev = {
   name: "Gustavo Moreira",
   role: "Fullstack Dev & Student ☕",
-  stack: ["Java", "Python", "Node.js", "REST APIs"],
+  stack: ["Java", "Python", "Node.js", "React", "REST APIs"],
   englishLevel: "English B2 🌐",
   philosophy: "Building & breaking stuff 💡"
 };
@@ -39,10 +39,11 @@ const dev = {
 <div align="center">
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/REST_APIs-F59E0B?style=for-the-badge&logo=fastapi&logoColor=black" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/Antigravity_IDE-7928CA?style=for-the-badge&logo=zap&logoColor=white" alt="Antigravity IDE"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
