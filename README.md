@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- OBSIDIAN GOLD ANIMATED HEADER BANNER -->
-<img src="https://raw.githubusercontent.com/gusmcoelho/gusmcoelho/main/assets/cyberpunk-header.svg" width="100%" alt="Obsidian Gold Header Banner" />
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://raw.githubusercontent.com/gusmcoelho/gusmcoelho/main/assets/cyberpunk-header.svg" width="100%" alt="Header Banner" />
 
 <br/>
 
 <!-- DYNAMIC TYPING ANIMATION (AMBER GOLD ACCENT) -->
 <a href="https://github.com/denvercoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F59E0B&center=true&vcenter=true&width=600&height=40&lines=Fullstack+Dev+%26+Student;Java+%E2%80%A2+Python+%E2%80%A2+Node.js+%E2%80%A2+React;Building+%26+Breaking+Stuff+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F59E0B&center=true&vcenter=true&width=600&height=40&lines=Fullstack+Dev+%26+Student;Java+%E2%80%A2+Python+%E2%80%A2+Node.js+%E2%80%A2+React" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -27,8 +27,7 @@ const dev = {
   name: "Gustavo Moreira",
   role: "Fullstack Dev & Student ☕",
   stack: ["Java", "Python", "Node.js", "React", "REST APIs"],
-  englishLevel: "English B2 🌐",
-  philosophy: "Building & breaking stuff 💡"
+  englishLevel: "English B2 🌐"
 };
 ```
 
