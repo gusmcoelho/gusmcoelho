@@ -52,6 +52,18 @@ const dev = {
 
 ---
 
+### 🐍 Snake Eating Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gusmcoelho/gusmcoelho/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gusmcoelho/gusmcoelho/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/gusmcoelho/gusmcoelho/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=gusmcoelho&style=flat-square&color=f59e0b" alt="Profile Views" />
